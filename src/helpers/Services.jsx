@@ -9,12 +9,13 @@ import Lorem_Ipsum4 from '../../public/Img/Lorem_Ipsum4.webp';
 const servicesObj = [
     {
         service: "Lorem Ipsum 1",
-        description: "Circuito cerrado de televisión (Closed Circuit Television), es un sistema de vigilancia por medio de video para fines de control de actividades, supervisión de áreas, personal, controles de seguridad.",
+        description: "Nulla nec ex erat. Vivamus tincidunt fringilla est in pulvinar. In sagittis hendrerit placerat. Donec lobortis neque id magna tempor, vel sollicitudin ante suscipit. Nunc posuere nisi vel tellus feugiat blandit.",
+
         img: Lorem_Ipsum1
     },
     {
         service: "Lorem Ipsum 2",
-        description: "Las entradas son un punto de vulnerabilidad. Al ser el primer filtro de acceso es conveniente tomarlo como la oportunidad de prevenir, intervenir y actuar contra la inseguridad sin poner en riesgo a las personas que se encuentran dentro.",
+        description: "Nulla nec ex erat. Vivamus tincidunt fringilla est in pulvinar. In sagittis hendrerit placerat. Donec lobortis neque id magna tempor, vel sollicitudin ante suscipit. Nunc posuere nisi vel tellus feugiat blandit.",
         img: Lorem_Ipsum2
     },
     {
