@@ -1,9 +1,9 @@
-$imgAboutImg:'../../public/Img/20b6dcdd-2bf4-4a7b-a66b-876e33998bc6.webp';
+$imgAboutImg:'../../public/Img/header.webp';
 
 .container-about-us{
     padding: 20% 0;
     background:  linear-gradient(to bottom, $main-color,$second-color ),url($imgAboutImg)  100% 50% no-repeat;
-    background-size: 100%;
+    background-size: 200%;
     .about-us-card{
         background-color:$main-color;
         color: white;

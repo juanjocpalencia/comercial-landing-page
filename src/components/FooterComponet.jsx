@@ -65,7 +65,7 @@ export default function FooterComponet() {
                     <br />
                     <Row>
                     <Col span={6} xl={8} md={8} sm={24} xs={24}></Col>
-                    <Col span={6} xl={8} md={8} sm={24} xs={24}>© 2023 comercial-landig-page.com</Col>
+                    <Col span={6} xl={8} md={8} sm={24} xs={24}>© 2023 comercial-landig-page.com <br/><a href="https://www.freepik.es/foto-gratis/montanas-seoraksan-estan-cubiertas-niebla-manana-amanecer-seul-corea_11306427.htm#query=paisajes&position=0&from_view=search&track=sph?sign-up=google">Imagen de tawatchai07</a> en Freepik</Col>
                     <Col span={6} xl={8} md={8} sm={24} xs={24}></Col>
                     </Row>
                 </div>

@@ -1,5 +1,5 @@
 import { UserOutlined, MailOutlined, SettingOutlined } from '@ant-design/icons';
-import logo from '../../public/Img/503755dec9a1d1f7a725d2c4fe311de9_590x590.jpeg' 
+import logo from '../../public/Img/Logo.webp' 
 
 const MenuItems =()=> {
     
