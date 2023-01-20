@@ -18,4 +18,7 @@ Build your application
     npm run dev
  ```
 ## Preview
-[Comercial Laning Page](https://github.com/juanjocpalencia/comercial-landing-page/blob/master/src/App.jsx)
+[Comercial Laning Page](https://juanjocpalencia.github.io/comercial-landing-page/)
+
+##  Images
+Images form [tawatchai07](https://www.freepik.es/autor/tawatchai07) on Freepik
