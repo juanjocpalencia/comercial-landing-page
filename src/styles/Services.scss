@@ -1,0 +1,14 @@
+.Service-Container {
+    text-align: center;
+
+    .Service-Card {
+        margin: 0 auto;
+        max-width:80%;
+        margin: 10% auto;
+    }
+    .ant-card-meta-description{
+        height: 250px;
+        overflow-y: auto;
+    }
+
+}

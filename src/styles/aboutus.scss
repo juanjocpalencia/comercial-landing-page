@@ -1,0 +1,24 @@
+$imgAboutImg:'../../public/Img/20b6dcdd-2bf4-4a7b-a66b-876e33998bc6.webp';
+
+.container-about-us{
+    padding: 20% 0;
+    background:  linear-gradient(to bottom, $main-color,$second-color ),url($imgAboutImg)  100% 50% no-repeat;
+    background-size: 100%;
+    .about-us-card{
+        background-color:$main-color;
+        color: white;
+        opacity: 0.85;
+        max-width: 70vw;
+        text-align: center;
+        margin: 0 auto;
+        animation-name: display-message;
+        animation-duration: 3s;
+        .ant-card-head{
+            color: white;
+        }
+        @keyframes display-message{
+            from{opacity: 0;}
+            to{opacity: 1;}
+        }
+    }
+}

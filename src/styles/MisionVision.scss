@@ -1,0 +1,19 @@
+
+$imgMisionVision:'../../public/Img/4d7715e7-4431-41aa-bb59-23cb18cf9e77.webp';
+
+.MisionVision{
+    background: url($imgMisionVision)  100% 0% no-repeat fixed;
+    background-size: 100%;
+    padding: 10% 0;
+    .MisionVision-card{
+        margin: 0 auto;
+        text-align: center;
+        .misionvision-card-component{
+            background-color:$base-color;
+            color: white;
+            opacity: .8;
+            margin: 0 50px;
+
+        }
+    }
+}

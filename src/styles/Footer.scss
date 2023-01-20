@@ -1,0 +1,35 @@
+.FooterContainer{
+    text-align: center;
+    .text-container{
+        margin: 0 auto;
+        justify-content: center;
+        align-items: center;
+        display: flex;
+    }
+    .black-container{
+        background: linear-gradient(0deg, $base-color 0%,$second-color 100%);
+        color: white;
+        padding: 100px 0;
+        margin-top: 100px;
+        a{
+            color:white;
+            :hover{
+                color:white;
+            }
+        }
+        .Facebook{
+            font-size: 30px;
+        }
+        .LinkedIn{
+            font-size: 30px;
+        }
+        .Whatsapp{
+            font-size: 30px;
+        }
+
+        .icon{
+            padding: 0 30px;
+            list-style: none;
+        }
+    }
+}
