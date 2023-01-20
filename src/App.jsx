@@ -17,7 +17,7 @@ export default function App() {
     console.log("%c***************************************************************************",'color:#58C200 ;')
     console.log("%cWelcome",'color:white;font-size:30px;');
     console.log("%cHello everyone if you want to know more about the develoment team who developed this webapp you can contact us on",'font-size:15px;');
-    console.log("%juanjocpalencia@gmail.com",'font-size:15px;color:#F7F723 ;');
+    console.log("%cjuanjocpalencia@gmail.com",'font-size:15px;color:#F7F723 ;');
     console.log("%c***************************************************************************",'color:#58C200 ;')
     console.log("%c***************************************************************************",'color:#58C200 ;')
     console.log("%c***************************************************************************",'color:#58C200 ;')

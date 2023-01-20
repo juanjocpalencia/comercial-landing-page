@@ -3,7 +3,7 @@ $imgAboutImg:'../../public/Img/header.webp';
 .container-about-us{
     padding: 20% 0;
     background:  linear-gradient(to bottom, $main-color,$second-color ),url($imgAboutImg)  100% 50% no-repeat;
-    background-size: 200%;
+    background-size: 500%;
     .about-us-card{
         background-color:$main-color;
         color: white;

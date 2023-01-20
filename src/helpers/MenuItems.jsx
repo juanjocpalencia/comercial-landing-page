@@ -6,7 +6,7 @@ const MenuItems =()=> {
     return[
         {
             label: (
-                <a href="/" rel="noopener noreferrer">
+                <a href="./" rel="noopener noreferrer">
                     <img className='logo' src={logo} alt="" />
                 </a>
             ),
@@ -14,7 +14,7 @@ const MenuItems =()=> {
         },
     {
         label: (
-            <a href="/#Aboutus" rel="noopener noreferrer">
+            <a href="./#Aboutus" rel="noopener noreferrer">
                 About Us
             </a>
         ),
@@ -23,7 +23,7 @@ const MenuItems =()=> {
     },
     {
         label: (
-            <a href="/#services" rel="noopener noreferrer">
+            <a href="./#services" rel="noopener noreferrer">
                 Our Services
             </a>
         ),
@@ -32,7 +32,7 @@ const MenuItems =()=> {
     },
     {
         label: (
-            <a href="/#contactus" rel="noopener noreferrer">
+            <a href="./#contactus" rel="noopener noreferrer">
                 Contact Us
             </a>
         ),
